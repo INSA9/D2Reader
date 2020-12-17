@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "node ."
+    "start": "node app.js"
   },
   "dependencies": {
     "bytearray-node": "^3.3.5",
